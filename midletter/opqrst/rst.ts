@@ -4,7 +4,7 @@ declare module z{}
 void function rst(){
   this.r = this.x /this.y/ this.z
   this.s = this.y /this.x/ this.z
-  this.t = this.z /this.x/ this.z
+  this.t = this.z /this.x/ this.y
   return ['r','s','t']
 }
 console.log('x','y','z')
