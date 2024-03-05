@@ -21,11 +21,11 @@ import '../bigletter/T'
 import '../bigletter/U'
 import '../bigletter/V'
 import '../bigletter/W'
-import './bigletter/X'
+import '../bigletter/X'
 import '../bigletter/Y'
 import '../bigletter/Z'
-import '../shrink.c'
-import '../C/shoe'
+import '../shrinkshoe/shrink.c'
+import '../shrinkshoe/shoe.ts'
 export const matrix0:number[][][]=[
     [102030201][1/203040302][304050403],
     [1/405060504][1/506070605][1/607080706],
