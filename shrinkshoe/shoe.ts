@@ -4,7 +4,7 @@ import '../midletter/opqrst/opq'
 import '../midletter/opqrst/rst'
 import '../midletter/ijklmn/ijkstringtostring'
 import '../midletter/ijklmn/lmnnumbertonumber'
-import '../C/shrink.c'
+import '../shrinkshoe/shrink.c'
 declare module i{}
 declare module ii{}
 void function i(){
