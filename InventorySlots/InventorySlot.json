@@ -1,0 +1,12 @@
+{
+  "files": {
+    "include": [
+      "../InventorySlots1234",
+      "../InventorySlot5678910"
+    ],
+    "exclude":[
+      "../N0Inventory",
+      "../N1Inventory"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "files": {
+    "include": {
+      "topology/ChenClass:any":
+      "topology/LieGroup:any"
+    },
+    "exclude": {
+      "topology/manifold:any":
+      "topology/Orbifold:any"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "files": {
+    "include": [
+      "topology/hedron/Dodecahedron",
+      "topology/hedron/Dodecahedron2",
+      "topology/hedron/Icodecahedron",
+      "topology/hedron/Icodecahedron2",
+      "topology/hedron/Ocdecahedron",
+      "topology/hedron/Ocdecahedron2",
+      "topology/hedron/tetrahedron",
+      "topology/hedron/tetrahedron2"
+    ],
+    "exclude": [
+      "topology/topology/ChenClass.ts"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "files": {
+    "include": [
+      "topology/VEF/sphere.ts",
+      "topology/VEF/sphere2.ts",
+      "topology/VEF/prism.ts",
+      "topology/VEF/prism2",
+      "topology/VEF/sphere.ts",
+      "topology/VEF/Pyramid.ts",
+      "topology/VEF/Pyramid2.ts",
+      "topology/VEF/Pyramid3.js"
+    ],
+    "exclude": [
+      "topology/topology/LieGroup.ts"
+    ]
+  }
+}

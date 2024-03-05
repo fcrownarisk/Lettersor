@@ -1,0 +1,12 @@
+{
+  "files": {
+    "include": [
+      "tensor/fermat/fermat1",
+      "tensor/fermat/fermat3",
+      "tensor/fermat/fermat4"
+    ],
+    "exclude": [
+      "tensor/fermat/fermat2"
+    ]
+  }
+}
