@@ -19,6 +19,12 @@ type void interface(){
   [class4][class5][class6]
   [class7][class8][class9]
 }
+type void interface()namespace(){ 
+   [r][s][t][u] = 1/x + 1/y + 1/z + 1/t
+}
+type void namespace()interface(){
+   [v][w][x][y][z] = 1/x + 2/y + 3/z + 4/t + 5/t
+}
 type void namespace(){
   [a][b][c][d]
   [e][f][g][h]
