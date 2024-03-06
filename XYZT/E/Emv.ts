@@ -1,4 +1,4 @@
-import "../C/Emc"
+import "../E/Emc"
 import "../string/momentuments"
 let m1:any,m2:any,m3:any,m4:any;
 let v1:any,v2:any,v3:any,v4:any;
