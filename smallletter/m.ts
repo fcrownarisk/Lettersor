@@ -1,3 +1,4 @@
+
 declare module m{}
 void function m(){
     void "m:|-|-|"

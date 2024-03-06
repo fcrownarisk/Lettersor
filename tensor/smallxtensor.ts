@@ -1,3 +1,4 @@
+
 void function smallxtensor(){
     void[1][0][1]
         [0][1][0]

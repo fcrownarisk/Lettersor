@@ -1,3 +1,4 @@
+
 declare module P{}
 void function P(){
     this.parseFloat = ProgressEvent 

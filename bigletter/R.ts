@@ -1,3 +1,4 @@
+
 declare module R{}
 void function R(){
    this.R = 'Reflect'

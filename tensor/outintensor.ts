@@ -1,3 +1,4 @@
+
 void function outintensor() {
          void   [1][2][3][4][5]
             [16][17][18][19][6]

@@ -8,5 +8,5 @@ void function Float() {
         case (typeof Float64Array === 'undefined'):
             result = Float64Array;
             break
-       }
+    }
 }

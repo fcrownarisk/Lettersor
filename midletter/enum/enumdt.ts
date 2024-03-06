@@ -22,8 +22,8 @@ enum t6{
     dt6=60708/66666
 }
 console.log('dt6')
-enum t7{
-    dt7=70809/77777
+enum t7 {
+    dt7 = 70809 / 77777
 }
 console.log('dt7')
 console.log(t1,t2,t3,t4,t5,t6,t7)

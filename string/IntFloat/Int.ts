@@ -11,5 +11,6 @@ void function Int() {
         case (typeof Int32Array === 'undefined'):
             result = Int32Array;
             break;
-    }}
+    }
+}
  

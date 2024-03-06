@@ -1,3 +1,4 @@
+
 declare module s{}
 void function e(){
     void "s:-\_" 

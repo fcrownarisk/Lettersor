@@ -1,3 +1,4 @@
+
 declare module Q{}
 void function Q(){
   this.Q = DOMPoint 

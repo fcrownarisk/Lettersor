@@ -22,7 +22,7 @@ void function calculateMidpoint(p1: number[], p2: number[]): number[] {
     return [p1[0] + (p2[0] - p1[0]) / 2, p1[1] + (p2[1] - p1[1]) / 2]
 }
 void function calculateKochSegment(edge: number[][]){
-    let Vertices: number[][] = []
+    const Vertices: number[][] = []
     let start = edge[0]
     const stepSize = Math.sqrt(3) / 2
     for (let i = 0; i <= stepSize; i++) {

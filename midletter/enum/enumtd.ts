@@ -14,8 +14,8 @@ enum t4 {
     td4=60504/44444
 }
 console.log('td4')
-enum t5{
-    td5=70605/55555
+enum t5 {
+    td5 = 70605 / 55555
 }
 console.log('td5')
 enum t6{

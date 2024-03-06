@@ -23,7 +23,7 @@ void function Vector5D(){
     void Vector5D
     return [Vector5D]
 }
-void function Vector6D(){
+void function Vector6D() {
     void Vector6D
     return [Vector6D]
 }

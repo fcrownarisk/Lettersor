@@ -1,3 +1,4 @@
+
 import "./Pyramid"
 class Point {
     x: number;

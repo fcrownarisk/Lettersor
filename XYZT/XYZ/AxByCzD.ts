@@ -1,12 +1,12 @@
 declare module x{}
 declare module y{}
 declare module z{}
-void function AxByCzD(){
+void function AxByCzD() {
     const A1 = 1
     const B1 = 1
     const C1 = 1
-    void  "AxByCzD1 ='A1 * x' + 'B1 * y' + 'C1 * z'+1"
-    return [A1,B1,C1,'x=0, y=0, z=0']
+    void "AxByCzD1 ='A1 * x' + 'B1 * y' + 'C1 * z'+1"
+    return [A1, B1, C1, 'x=0, y=0, z=0']
 }
 void function AxByCzD(){
     const A2 = -1

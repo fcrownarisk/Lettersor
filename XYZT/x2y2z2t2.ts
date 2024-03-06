@@ -9,11 +9,11 @@ import '../smallletter/p'
 import '../smallletter/q'
 import '../InventorySlots/InventorySlot1234'
 import '../return/returnnn'
-export function x2(){
+export function x2() {
     for (let i = 2; i < 4; i++)
         for (let j = 2; j < 4; j++)
             for (let k = 2; k < 4; k++)
-                console.log(i,j,k)
+                console.log(i, j, k)
 }
 export function y2(){
     for (let l = 1; l >= 0 && l <= 4; ++l || l--)

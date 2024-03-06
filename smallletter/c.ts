@@ -1,3 +1,4 @@
+
 declare module c{}
 void function String(){
 void  "c:|="

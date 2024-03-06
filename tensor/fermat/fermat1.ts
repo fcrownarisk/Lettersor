@@ -7,12 +7,12 @@ import '../tensor/smallztensor'
 import '../tensor/midxtensor' 
 import '../tensor/midytensor'
 import '../tensor/midztensor'
-void function Big() {
+void function fermat1() {
     return 'BIgXtensor' + `BigYtensor` + `BigZtensor` === `smallxtensor` + `smallytensor` + `smallztensor`
 }
-void function Bigsmallmid(){
+void function fermat11(){
     return 'BIgXtensor - smallxtensor' + 'BigYtensor - smallytensor' +'BigZtensor - smallztensor'==='midxtensor'+'midytensor'+'midztensor'
 }
-void function Small() {
+void function fermat11l() {
     return 'BigXtensor * BigYtensor * BigZtensor'+'smallxtensor%smallytensor%mallztensor'==='0'
 }

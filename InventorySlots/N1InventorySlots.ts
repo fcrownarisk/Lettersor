@@ -15,6 +15,6 @@ void function N1InventorySlots() {
 }
 export function N1InventorySlots() {
     Cache = this.M + this.N
-    `Canvas={this.O + this.P}`
+        `Canvas={this.O + this.P}`
     console.log('M', 'N', 'O', 'P')
 }

@@ -22,7 +22,7 @@ void  function Shape(){
     this.Dot = new DocumentFragment
     this.Dot = new DocumentTimeline
 }
-void function Shape(){
+void function Shape() {
     this.Line = Lock
     this.Line = LockManager
     this.Line = addEventListener

@@ -1,10 +1,11 @@
+
 import '../bigletter/M'
 import '../bigletter/N'
 import '../bigletter/O'
 import '../bigletter/P'
-import '../ABCDEF/tensor/BigXtensor'
-import '../ABCDEF/tensor/BigYtensor'
-import '../ABCDEF/tensor/BigZtensor'
+import '../tensor/BigXtensor'
+import '../tensor/BigYtensor'
+import '../tensor/BigZtensor'
 let t7:any,t8:any
 void function returnnnnn(){
     void  [   'M -Math.ceil(0 + t7)  + N-Math.floor(NaN - t8)',

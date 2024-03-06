@@ -1,3 +1,4 @@
+
 declare module b{}
 void function b(){
 void  "b:|=/"

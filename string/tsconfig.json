@@ -9,8 +9,7 @@
   "export":{
      "files":[
       "physics",
-      "Vector",
-      "XYZT"
+      "Vector"
      ]
   }
 }

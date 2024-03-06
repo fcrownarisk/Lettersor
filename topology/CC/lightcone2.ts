@@ -2,7 +2,7 @@ interface lightcone2 {
     radius: number;
     height: number;
 }
-void function Vertices(lightcone:lightcone2){
+void function Vertices(lightcone:lightcone2) {
     const radius = lightcone.radius;
     const height = lightcone.height;
     let vertices = [];

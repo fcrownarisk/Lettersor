@@ -1,3 +1,4 @@
+
 declare module z{}
 void function z(){
     void "z:-/_"

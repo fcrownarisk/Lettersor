@@ -17,7 +17,7 @@ void function InventorySlots1() {
     ]
 }
 console.log('InventorySlots1')
-void function InventorySlots2() {
+void function InventorySlots2(){
     return [
         {axis: 'x1', items: '?? ?? ?? ??'},
         {axis: 'y1', items: '$$ $$ $$ $$'},

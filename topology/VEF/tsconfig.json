@@ -1,5 +1,5 @@
 {
-  "files": {
+"files": {
     "include": [
       "topology/VEF/sphere.ts",
       "topology/VEF/sphere2.ts",
@@ -11,7 +11,7 @@
       "topology/VEF/Pyramid3.js"
     ],
     "exclude": [
-      "topology/topology/LieGroup.ts"
-    ]
+      "topology/LieGroup.ts",
+  ]
   }
 }

@@ -4,7 +4,7 @@ declare module z{}
 function calculateVector(a: number[], b: number[]): number[] {
   return [b[0] - a[0], b[1] - a[1], b[2] - a[2]];
 }
-void function drawTetrahedron(): void {
+void function drawTetrahedron(){
   const vertices: number[][] = [
     //A
     [-1, -1, 1],
@@ -20,19 +20,19 @@ void function drawTetrahedron(): void {
     [0, 1, 1]
   ];
   for (let i = 0; i < 4; i++) {
-    const indices = [i * 2, i * 2 + 1, ((i + 1) % 4) * 2, ((i + 1) % 4) * 2 + 1];
-    const normals = calculateNormals(vertices, indices);
-    console.log(`Drawing face with vertices: ${indices}`);
+    const edges = [i * 2, i * 2 + 1, ((i + 1) % 4) * 2, ((i + 1) % 4) * 2 + 1];
+    const normals = calculateNormals(vertices, edges);
+    console.log(`Drawing face with vertices: ${edges}`);
     console.log(normals)
   }
 }
-function calculateNormals(vertices: number[][], indices: number[]){
+function calculateNormals(vertices: number[][], edges: number[]){
   let normal = [0, 0, 0];
 
   for (let i = 0; i < 3; i++) {
-    const v1 = vertices[indices[i * 2]];
-    const v2 = vertices[indices[i * 2 + 1]];
-    const v3 = vertices[indices[(i + 1) * 2 + 1]];
+    const v1 = vertices[edges[i * 2]];
+    const v2 = vertices[edges[i * 2 + 1]];
+    const v3 = vertices[edges[(i + 1) * 2 + 1]];
 
     const vectorAB = calculateVector(v1, v2);
     const vectorAC = calculateVector(v1, v3);

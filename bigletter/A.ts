@@ -1,3 +1,4 @@
+
 void function A() {
     const A1 = 0;
     const A2 = 1;

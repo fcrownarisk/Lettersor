@@ -1,9 +1,10 @@
+
 import '../bigletter/I'
 import '../bigletter/J'
 import '../bigletter/K'
 import '../bigletter/L'
-import '../ABCDEF/inouttensor'
-import '../ABCDEF/outintensor'
+import '../tensor/inouttensor'
+import '../tensor/outintensor'
 let t5:any,t6:any
 void function returnnnn(){
     void  [   'I - Math.atan(NaN + t5) + J - Math.atan2(0 - t6)',

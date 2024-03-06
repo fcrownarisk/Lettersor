@@ -1,3 +1,4 @@
+
 declare module f{}
 void function toString(){
 void "f:|/\|"

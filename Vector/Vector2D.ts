@@ -1,4 +1,3 @@
-import '../Vector2D'
 import '../bigletter/I'
 import '../bigletter/J'
 void function Vector2D(){

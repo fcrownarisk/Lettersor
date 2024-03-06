@@ -1,3 +1,4 @@
+
 declare module I{}
 void function (){
    this.I = IntersectionObserver

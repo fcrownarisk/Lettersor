@@ -1,3 +1,4 @@
+
 void function calculateDodecahedronVertices(size: number): number[] {
     const r = Math.sqrt(3) / 2 * size;
     return [

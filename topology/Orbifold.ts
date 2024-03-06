@@ -1,3 +1,4 @@
+
 import '../LieGroup'
 interface LieGroup {
     multiply(g1: any, g2: any): any;

@@ -1,3 +1,4 @@
+
 void function smallytensor(){
     void[1][0][1]
         [0][1][0]

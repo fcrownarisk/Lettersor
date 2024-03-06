@@ -1,3 +1,4 @@
+
 declare module W{}
 void function W(){
     this.WeakMap = W

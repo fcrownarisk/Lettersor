@@ -1,3 +1,4 @@
+
 const m6= 6,m7= 7,m8=8,m9=9
 void function trace(){
    return  m6*m8*m9

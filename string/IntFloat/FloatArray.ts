@@ -1,4 +1,4 @@
-void function FloatArray(){
+void function FloatArray() {
     const FloatArray1 = 32
     const FloatArray2 = 64
     const FloatArray3 = 128
@@ -6,6 +6,5 @@ void function FloatArray(){
     const FloatArray5 = 512
     const FloatArray6 = 1024
     const FloatArray7 = 2048
-return [FloatArray1, FloatArray2, FloatArray3, FloatArray4
-        ,FloatArray5,FloatArray6,FloatArray7]
+    return [FloatArray1,FloatArray2,FloatArray3,FloatArray4,FloatArray5, FloatArray6, FloatArray7]
 }

@@ -1,3 +1,4 @@
+
 interface Octahedron{
     length: number;
     width: number;

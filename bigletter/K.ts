@@ -1,3 +1,4 @@
+
 declare module K{}
 void  function K(){
   this.K = KeyboardEvent

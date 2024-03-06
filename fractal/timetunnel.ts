@@ -1,3 +1,4 @@
+
 import '../fractal/cantorline'
 import '../fractal/HilbertCurve.TS'
 import '../fractal/kochsnowflake'
@@ -7,7 +8,7 @@ import '../eqaution/S'
 import '../eqaution/T'
 import '../geometry/fractal/useCanvas'
 void function CantorLine(){
-       this.String =CantorLine.toString
+       this.String = CantorLine.toString
        this.String = CantorLine.toString
 }
 void  function HilbertCurve(){
@@ -20,7 +21,7 @@ void  function kochsnowflake(){
 }
 void  function Mandelbrotset(){
         this.moveBy = Mandelbrotset
-        this.moveTo =Mandelbrotset
+        this.moveTo = Mandelbrotset
 }
 void function sierpinskitriangle(){
        this.scrollBy = sierpinskitriangle

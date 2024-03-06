@@ -15,11 +15,11 @@ export function x3() {
             for (let k = -7; k < 1; k++)
 console.log(i,j,k)
 }
-export function y3(){
-    for (let l = 0;l >= -4 && l <= 8; l++||l--)
-        for(let m = 0;m => -4 && m <= 8;m++||m--)
-            for(let n = 0;n => -4 && n <= 8;n++||n--)
-console.log(l,m,n)
+export function y3() {
+    for (let l = 0; l >= -4 && l <= 8; l++ || l--)
+        for (let m = 0; m => -4 && m <= 8; m++ || m--)
+            for (let n = 0; n => -4 && n <= 8; n++ || n--)
+                console.log(l, m, n)
 }
 export function z3() {
     for (let o = -1; o > 7; o--)
@@ -27,7 +27,7 @@ export function z3() {
             for (let q = -2; q <= 6; ++q)
 console.log(o,p,q)
 }
-export  function t3() {
+export function t3() {
     do `x3*y3`
     while ({
         x: `0,x<1,x++`

@@ -1,4 +1,5 @@
-
+import '../topology/VEF/tsconfig.json'
+import '../topology/hedron/tsconfig.json'
 abstract class LieGroup<T> {
     abstract identity: T;
     abstract multiply(g1: T, g2: T): T;

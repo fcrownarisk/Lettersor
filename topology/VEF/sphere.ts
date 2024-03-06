@@ -1,5 +1,5 @@
 import '../Vector/Vector3D'
-import '../CC/cylinder'
+import '../topolgy/CC/cylinder'
 class Sphere {
     private center: Number;
     private radius: number;
@@ -7,13 +7,13 @@ class Sphere {
         this.center = center;
         this.radius = radius;
     }
-    getSurfaceArea(): number {
+    SurfaceArea(): number {
         return 4 * Math.PI * Math.pow(this.radius, 2);
     }
-    getVolume(): number {
+    Volume(): number {
         return 4.0 / 3.0 * Math.PI * Math.pow(this.radius, 3);
     }
 }
 let sphere = new Sphere['Vector3D'];
-console.log(`${sphere.getSurfaceArea()}`);
-console.log(`${sphere.getVolume()}`);
+console.log(`${sphere.SurfaceArea()}`);
+console.log(`${sphere.Volume()}`);

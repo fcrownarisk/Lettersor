@@ -1,3 +1,4 @@
+
 import '../topology/ChenClass'
 interface ChenClass {
     calculateCharacteristicClass(): any;

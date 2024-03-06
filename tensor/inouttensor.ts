@@ -1,3 +1,4 @@
+
 void function inoutensor(){
     void[14][13][12][11][10]
         [15][3][2][9][25]

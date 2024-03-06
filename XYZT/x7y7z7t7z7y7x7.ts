@@ -11,6 +11,7 @@ interface x1y1z1t1{
     t1: string
     constructor(x1: number, y1: number, z1: number,t1:string)
 }
+console.log('x1y1z1t1')
 interface x2y2z2t2{
     x2:number
     y2:number
@@ -18,6 +19,7 @@ interface x2y2z2t2{
     t2:string
     constructor(x2:number,y2:number,z2:number,t2:string)
 }
+console.log('x2y2z2t2')
 interface x3y3z3t3{
     x3:number
     y3:number
@@ -25,6 +27,7 @@ interface x3y3z3t3{
     t3:string
     constructor(x3:number,y3:number,z3:number,t3:string)
 }
+console.log('x3y3z3t3')
 abstract class t4z4y4x4{
         t4=String
         z4=toString()

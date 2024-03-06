@@ -11,5 +11,5 @@ abstract class Vector3D {
 void function Vector3D(){
     void Vector3D ['I*x + J*y + K*z']
     return [Vector3D]
-  }
+}
   console.log(Vector3D)

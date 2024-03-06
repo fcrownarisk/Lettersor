@@ -9,4 +9,3 @@ void function T(){
     void  '(Math.PI*Math.PI)*(c^2) /16*k*G*M'
 }
 console.log(PlankConstant, Planckscale, Plancktime, Planckmass,G,Boltzmann)
-console.log(M)

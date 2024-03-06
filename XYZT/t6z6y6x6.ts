@@ -11,9 +11,9 @@ import "../return/returnnnnnnn"
 import "../InventorySlots/N1InventorySlots"
 export function x6() {
     for (let I = 0; I < 6; I++)
-        for(let J = 0; J < 6; J++)
-            for(let K = 0; K< 6; K++)
-                console.log(I,J,K)
+        for (let J = 0; J < 6; J++)
+            for (let K = 0; K < 6; K++)
+                console.log(I, J, K)
 }
 export  function y6(){
     for(let L = 1;-6<L &&L<6; L++||L--)

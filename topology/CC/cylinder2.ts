@@ -10,8 +10,7 @@ namespace cylinder{
 void function cylinder(x: number, y: number,z:number){
    return  cylinder(x,y,z)
  } 
-void function cylinder({radius:stringify, height:parse}){
-  cylinder({radius:Math.PI, height:length})
-    return stringify&&parse||null;
- }
- 
+void function cylinder({radius:stringify, height:parse}) {
+    cylinder({radius: Math.PI, height: length})
+    return stringify && parse || null;
+}

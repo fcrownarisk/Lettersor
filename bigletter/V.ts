@@ -1,3 +1,4 @@
+
 declare module V{}
 void function V(){
   this.VarDate = V

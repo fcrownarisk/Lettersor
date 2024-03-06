@@ -1,3 +1,4 @@
+
 declare module S{}
 void function S(){
     this.S =  new Storage

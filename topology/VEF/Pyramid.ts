@@ -1,4 +1,4 @@
-import '../tensor/Vector3D'
+
 class Pyramid {
     baseWidth: number;
     baseLength: number;

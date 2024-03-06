@@ -1,12 +1,12 @@
-import "../geometry/Pyramid3.js"
+import "../topology/Pyramid3.js"
 import "../string/InventorySlots/N0InventorySlot"
 import "../string/InventorySlots/N1InventorySlots"
 import "../string/InventorySlots/InventorySlots1234"
 import "../string/InventorySlots/InventorySlots5678910"
-import "../tensor/math/fermat1"
-import "../tensor/math/fermat2"
-import "../tensor/math/fermat3"
-import "../tensor/math/fermat4"
+import "../tensor/fermat/fermat1"
+import "../tensor/fermat/fermat2"
+import "../tensor/fermat/fermat3"
+import "../tensor/fermat/fermat4"
 import '../string/XYZT/x1y1z1t1'
 import '../string/XYZT/x2y2z2t2'
 import '../string/XYZT/x3y3z3t3'

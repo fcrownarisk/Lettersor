@@ -8,7 +8,7 @@ class Vector4D{
     z:number
     u:string
 }
-void function Vector4D(){
+void function Vector4D() {
     void Vector4D ['I*x + J*y + K*z+L*(x+y+z)']
     return Vector4D
 }

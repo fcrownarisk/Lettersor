@@ -10,9 +10,9 @@ import '../smallletter/q'
 import "../return/returnn"
 export function x1() {
     for (let i = 1; i < 3; i++)
-        for(let j = 1; i < 3; j++)
-            for(let k = 1; k < 3; k++)
-console.log(i, j, k)
+        for (let j = 1; i < 3; j++)
+            for (let k = 1; k < 3; k++)
+                console.log(i, j, k)
 }
 export function y1(){
     for(let l = 1;-2<l && l<3; l++||l--)

@@ -8,14 +8,14 @@ import '../XYZT/t4z4y4x4'
 import '../tensor/innertensor'
 import '../tensor/outertensor'
 declare module Vector8D{}
-abstract class Vector8D{
-    x:number
-    y:number
-    z:number
-    t1:number
-    t2:number
-    t3:number
-    t4:number
+abstract class Vector8D {
+    x: number
+    y: number
+    z: number
+    t1: number
+    t2: number
+    t3: number
+    t4: number
 }
 console.log(Vector8D,'t1','t2','t3','t4')
 void function Vector8D() {

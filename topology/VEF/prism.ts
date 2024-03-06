@@ -10,5 +10,5 @@ class Prism {
         this.faces = faces;
     }
 }
-let ThePrism = new Prism(3, 4, 5, 5);
+export const ThePrism = new Prism(3, 4, 5, 5);
 console.log(length,ThePrism.width,ThePrism.height,ThePrism.faces)

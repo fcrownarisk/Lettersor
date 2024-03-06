@@ -13,7 +13,7 @@ void function N0InventorySlot(){
     this.L = new SVGForeignObjectElement()
    return ['I','J','K','L']
 }
-export function N0InventorySlot(){
-    Object  = this.I + this.J + this.K + this.L
-    console.log('I','J','K','L')
+export function N0InventorySlot() {
+    Object = this.I + this.J + this.K + this.L
+    console.log('I', 'J', 'K', 'L')
 }

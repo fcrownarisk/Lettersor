@@ -1,3 +1,4 @@
+
 declare module d{}
 void function String(){
 void  "d:=|"

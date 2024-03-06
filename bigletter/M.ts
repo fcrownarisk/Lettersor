@@ -1,3 +1,4 @@
+
 declare module M{}
 void function M(){
     this.M = moveBy

@@ -13,7 +13,7 @@ abstract class Vector6D{
     v:number
 }
 console.log(Vector6D)
-void function Vector6D(){
-    void Vector6D ['Q*x' + 'R*y' + 'S*z'+'T*u'+'u*v'+"u/v"]
+void function Vector6D() {
+    void Vector6D ['Q*x' + 'R*y' + 'S*z' + 'T*u' + 'u*v' + "u/v"]
     return Vector6D
 }

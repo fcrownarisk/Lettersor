@@ -62,7 +62,7 @@ import '../XYZT/t4z4y4x4'
 import '../XYZT/t5y5z5x5'
 import '../XYZT/t6z6y6x6'
 import '../XYZT/x7y7z7t7z7y7x7'
-import '../C/shrink.c'
+import '../shrinkshoe/shrink.c'
 export const Matrix5: number[][] = [
         [5][25][125][625][3075],
         [147949218750][739746093750][3698730468750][18493652343750][15150],

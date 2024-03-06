@@ -1,3 +1,4 @@
+
 import {N0InventorySlot} from "../InventorySlots/N0InventorySlot";
 import {N1InventorySlots} from "../InventorySlots/N1InventorySlots";
 void function N0(){

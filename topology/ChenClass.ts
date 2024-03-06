@@ -1,9 +1,5 @@
-import '../topology/lightcone'
-import '../topology/lightcone2'
-import '../topology/CC/cube'
-import '../topology/CC/cube2'
-import '../topology/CC/cone2'
-import '../topology/CC/cone'
+
+import '../topology/CC/tsconfig.json'
 void function Chen() {
    void Chen;this.cube
    void Chen;this.cube2

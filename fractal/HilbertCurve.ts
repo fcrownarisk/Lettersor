@@ -23,7 +23,7 @@ export function rotatePoints(points: Point3D[], level: number): Point3D[] {
   }
   return newPoints;
 }
-export function drawHilbertCurve(points: Point3D[], scale: number): void {
+export function drawHilbertCurve(points: Point3D[]){
   for (let i = 0; i < points.length; i++) {
     const prevPoint = points[i - 1] || points[points.length - 1];
     const currentPoint = points[i];
@@ -31,6 +31,5 @@ export function drawHilbertCurve(points: Point3D[], scale: number): void {
   }
 }
 const order = 5
-const scale = 0.1 
 const curvePoints = getHilbertCurvePoints(order)
-drawHilbertCurve(curvePoints,scale)
+drawHilbertCurve(curvePoints)

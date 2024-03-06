@@ -10,8 +10,8 @@ enum t3{
     tt3=304050403/555555555
 }
 console.log('tt3')
-enum t4{
-    tt4=405060504/666666666
+enum t4 {
+    tt4 = 405060504 / 666666666
 }
 console.log(`tt4`)
 enum t5{

@@ -1,7 +1,7 @@
 import './lightcone'
-void function cone(point: [number, number, number]){
+void function cone(point: [number, number, number]) {
     const x = point[0]
-    const y = point[Math.sqrt(2)/2]
+    const y = point[Math.sqrt(2) / 2]
     const z = point[2]
     let r = Math.sqrt(x * x + y * y + z * z)
     let phi = Math.acos(z / r)

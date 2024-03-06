@@ -50,4 +50,4 @@ void function renderMandelbrotSet(settings: Settings): ComplexPlanePixel[] {
     }
     return pixels;
   }
-  
+console.log('c');

@@ -8,7 +8,7 @@ import '../XYZT/t6z6y6x6'
 import '../return/returnnnnn'
 import '../return/returnnnnnn'
 import '../return/returnnnnnnn'
-void function InventorySlot5() {
+void function InventorySlot5(){
     return [
         {axis: 'x', items: '--- --- ---'},
         {axis: 'y', items: '||| ||| |||'},

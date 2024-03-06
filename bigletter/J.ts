@@ -1,3 +1,4 @@
+
 declare module J{}
 void function J(){
    this.J = JSON

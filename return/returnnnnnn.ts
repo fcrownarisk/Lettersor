@@ -1,10 +1,11 @@
+
 import '../bigletter/Q'
 import '../bigletter/R'
 import '../bigletter/S'
 import '../bigletter/T'
-import '../ABCDEF/tensor/midXtensor'
-import '../ABCDEF/tensor/midYtensor'
-import '../ABCDEF/tensor/midZtensor'
+import '../tensor/midXtensor'
+import '../tensor/midYtensor'
+import '../tensor/midZtensor'
 let t9:any,t10:any
 void function returnnnnnn(){
     void  [   'Q'+ Math.exp(0 + t9) + 'R'+Math.log(NaN - t10),

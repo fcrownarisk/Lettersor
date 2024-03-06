@@ -1,3 +1,4 @@
+
 interface m{
     m1: number
     m2: number

@@ -1,3 +1,4 @@
+
 void function C() {
     const C1 = 7;
     const C2 = 8;

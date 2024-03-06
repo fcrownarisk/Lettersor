@@ -7,5 +7,5 @@ void function num(l:number,m:number,n:number){
        void  "m+n*l"
        void  "n*l+m"
         return [l,m,n] 
-    }
+}
 console.log('keyof l,keyof m,keyof n')

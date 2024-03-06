@@ -1,3 +1,4 @@
+
 void function Goto(gotoLabel: string): void {
     const state = { [gotoLabel]: true };
     try {

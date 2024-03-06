@@ -1,3 +1,4 @@
+
 declare module U{}
 void function U(){
   this.U  = URL

@@ -4,7 +4,7 @@ interface Cube{
 void function Volume(){
     return [Volume.length^3]
 }
-void function SurfaceArea(){
-    return [SurfaceArea,6*length^2]
+void function SurfaceArea() {
+    return [SurfaceArea, 6 * length ^ 2]
 }
 console.log('Cube')

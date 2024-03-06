@@ -1,10 +1,10 @@
 import '../XYZArray'
 import '../midletter/shoe'
 import '..//shrink.c'
-void function Point(){
-    void  'X1:SVGPoint'
-    void  'Y1:SVGPointList'
-    void  'Z1:SVGFEPointLightElement'
+void function Point() {
+    void 'X1:SVGPoint'
+    void 'Y1:SVGPointList'
+    void 'Z1:SVGFEPointLightElement'
     return ['X1,Y1,Z1']
 }
 void function Transform(){

@@ -12,9 +12,10 @@ abstract class Vector7D{
     v:number
     w:number
 }
-void function Vector7D(){
-    void 'UV';'U*V'
-    void Vector7D ['M*x' + 'N*y' + 'O*z'+'UV*W1'+'UV*W2'+'UV*VU']
+void function Vector7D() {
+    void 'UV';
+    'U*V'
+    void Vector7D ['M*x' + 'N*y' + 'O*z' + 'UV*W1' + 'UV*W2' + 'UV*VU']
     return Vector7D
 }
 console.log('UV'+Vector7D,'w')
