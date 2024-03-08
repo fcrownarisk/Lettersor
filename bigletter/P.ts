@@ -1,5 +1,4 @@
-
-declare module P{}
+let P
 void function P(){
     this.parseFloat = ProgressEvent 
     this.parseInt = Performance 

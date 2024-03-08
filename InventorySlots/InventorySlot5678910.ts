@@ -1,13 +1,14 @@
-import '../bigletter/A'
-import '../bigletter/B'
-import '../bigletter/C'
-import '../bigletter/D'
+import '../bigletter/constA'
+import '../bigletter/constB'
+import '../bigletter/constC'
+import '../bigletter/constD'
+import '../bigletter/goto'
 import '../XYZT/t4z4y4x4'
 import '../XYZT/t5z5y5x5'
 import '../XYZT/t6z6y6x6'
-import '../return/returnnnnn'
-import '../return/returnnnnnn'
-import '../return/returnnnnnnn'
+import '../return/returnn'
+import '../return/returnnn'
+import '../return/returnnnn'
 void function InventorySlot5(){
     return [
         {axis: 'x', items: '--- --- ---'},

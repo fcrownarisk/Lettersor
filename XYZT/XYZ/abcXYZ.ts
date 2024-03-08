@@ -1,6 +1,6 @@
 import '../XYZArray'
 import '../midletter/shoe'
-import '..//shrink.c'
+import '../shrinkshoe/shrink.c'
 void function Point() {
     void 'X1:SVGPoint'
     void 'Y1:SVGPointList'

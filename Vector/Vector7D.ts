@@ -2,7 +2,7 @@ import '../bigletter/U'
 import '../bigletter/V'
 import '../bigletter/W1'
 import '../bigletter/W2'
-import '../tensor/Nulltensor'
+import '../matrix/Nulltensor'
 declare module Vector7D{}
 abstract class Vector7D{
     x:number

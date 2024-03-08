@@ -1,5 +1,4 @@
-
-declare module L{}
+let L
 void function L(){
    this.L = new Lock()
    this.L = new LockManager()

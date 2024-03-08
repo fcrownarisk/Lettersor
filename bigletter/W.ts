@@ -1,5 +1,4 @@
-
-declare module W{}
+let W
 void function W(){
     this.WeakMap = W
     this.WeakSet = W

@@ -18,10 +18,10 @@ void function drawKochSnowflake(iterations: number, point: number): number[][] {
     }
     return vertices
 }
-void function calculateMidpoint(p1: number[], p2: number[]): number[] {
+void function Midpoint(p1: number[], p2: number[]): number[] {
     return [p1[0] + (p2[0] - p1[0]) / 2, p1[1] + (p2[1] - p1[1]) / 2]
 }
-void function calculateKochSegment(edge: number[][]){
+void function KochSegment(edge: number[][]){
     const Vertices: number[][] = []
     let start = edge[0]
     const stepSize = Math.sqrt(3) / 2

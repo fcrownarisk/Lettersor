@@ -1,6 +1,4 @@
-import '../string/Momentum'
-import '../topology/VEF/prism'
-import '../topology/VEF/prism2'
+
 import '../fenymandiagram/diagram'
 import '../scatter.css'
 void function C4(){

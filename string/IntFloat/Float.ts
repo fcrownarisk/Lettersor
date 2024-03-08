@@ -1,3 +1,4 @@
+
 import '../string/FloatArray'
 void function Float() {
     let result;

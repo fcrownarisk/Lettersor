@@ -2,8 +2,8 @@ import '../bigletter/Q'
 import '../bigletter/R'
 import '../bigletter/S'
 import '../bigletter/T'
-import '../tensor/inouttensor'
-import '../tensor/outintensor'
+import '../matrix/inouttensor'
+import '../matrix/outintensor'
 declare module Vector6D{}
 abstract class Vector6D{
     x:number

@@ -1,4 +1,3 @@
-
 import '../equation/momentum'
 import '../Matrix/wuwuMatrix'
 import '../Matrix/tennetMatrix'
@@ -45,22 +44,5 @@ class ScatteringMatrix {
         }
     }
 }
-
 const S = new ScatteringMatrix()
 
-S.setElement(1, 0, new Complex(1, 0))
-S.setElement(0, 1, new Complex(0, 1))
-S.setElement(-1, 0, new Complex(-1, 0))
-S.setElement(0, -1, new Complex(0, -1))
-S.print()
-console.log(S.getElement(0, 0).toString()) // Should output "1+0i"
-console.log(S.getElement(1, 1).toString()) // Should output "1+0i"
-console.log(S.getElement(0, 1).toString()) // Should output "0+1i"
-console.log(S.getElement(1, 0).toString()) // Should output "0+1i"
-const S2 = new ScatteringMatrix();
-S2.setElement(0, 0, new Complex(1, 0));
-S2.setElement(1, 1, new Complex(1, 0));
-S2.setElement(0, 1, new Complex(0, 1));
-S2.setElement(1, 0, new Complex(0, 1));
-const resultMatrix = S.multiply(S2);
-resultMatrix.print();

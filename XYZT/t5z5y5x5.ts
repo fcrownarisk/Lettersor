@@ -21,23 +21,23 @@ export function y5() {
                 console.log(L,M,N)
 }
 export function z5(){
-    for (let O= 2; O <= 8; O--)
-       for (let P = 4; P <= 8; ++P)
-          for (let Q = 2; Q <= 8;++Q)
+    for (let O= 2; O <= 8;O++)
+       for (let P = 4; P <= 8; P++)
+          for (let Q = 2; Q <= 8;Q++)
               console.log(O,P,Q)
 }
 export function t5(){
     do `x5*y5`
     while ({
-        z: `0,z>5,z--`
+        z: `0,10>z>5,z--||z++`
     })
     do `x5*z5`
     while ({
-        y: `0,z>5,y--`
+        y: `0,10>z>5,y--||y++`
     })
     do `y5*z5`
     while ({
-        x: `0,x>5,x--`
+        x: `0,10>x>5,x--||x++`
     })
 }
 

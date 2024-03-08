@@ -1,8 +1,7 @@
-
-declare module I{}
-void function (){
-   this.I = IntersectionObserver
-   this.I = IntersectionObserverEntry
+let I
+void function I(){
+   this.IntersectionObserver = I
+   this.IntersectionObserverEntry = I
    return 'I'
 }
 

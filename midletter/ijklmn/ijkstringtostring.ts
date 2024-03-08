@@ -1,6 +1,3 @@
-import '../C/abcd'
-import '../C/ijk'
-import '../C/shrink.c'
 void function ijk(i:string,j:string,k:string) {
     void 'i:String'
     void 'j:StringConstructor'

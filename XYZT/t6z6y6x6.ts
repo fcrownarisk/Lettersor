@@ -41,3 +41,9 @@ export function t6() {
         x: `0,x>4,x--`
     })
 }
+export function N1InventorySlots(x6:number,y6:number,z6:number,t6:String){
+    x6;['K, J, I']
+    y6;['N, M, L']
+    z6;['Q, P, O']
+    t6;[x6/y6/z6]
+}

@@ -1,5 +1,5 @@
-import '../XYZ/AxByCzD'
-import '../XYZ/abcXYZ'
+import '../XYZT/XYZ/AxByCzD'
+import '../XYZT/XYZ/abcXYZ'
 export function XYZArray(){
     const X1 = Int8Array
     const X2 = Int16Array

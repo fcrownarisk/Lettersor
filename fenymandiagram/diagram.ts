@@ -1,7 +1,7 @@
-import '../string/particle/boson'
-import '../string/particle/fermion'
-import '../topology/ChenClass'
+import '../particle/boson'
+import '../particle/fermion'
+import './geometry/ChenClass'
 import '../topology/LieGroup'
 import '../topology/manifold'
 import '../topology/Orbifold'
-console.log(`Diagram`,`vertices`,`edges`)
+console.log(`Volumn`,`SurfaceArea`,`Diagram`,`vertices`,`edges`)

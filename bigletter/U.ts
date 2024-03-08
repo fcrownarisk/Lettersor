@@ -1,5 +1,4 @@
-
-declare module U{}
+let U
 void function U(){
   this.U  = URL
   this.U  = URLSearchParams

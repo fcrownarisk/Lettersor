@@ -1,4 +1,4 @@
-import '../dotline'
+import '../dotline/dotline'
 void function calculateMagneticForce(charge: number, velocity: number, magneticField: number): number {
     return charge * velocity * magneticField;
 }

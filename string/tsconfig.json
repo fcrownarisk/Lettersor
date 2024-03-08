@@ -9,7 +9,8 @@
   "export":{
      "files":[
       "physics",
-      "Vector"
+      "Vector",
+       "fenymandiagram"
      ]
   }
 }

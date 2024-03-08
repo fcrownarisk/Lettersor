@@ -1,5 +1,4 @@
-
-declare module Q{}
+let Q
 void function Q(){
   this.Q = DOMPoint 
   this.Q = DOMPointReadOnly

@@ -2,8 +2,8 @@ import '../bigletter/M'
 import '../bigletter/N'
 import '../bigletter/O'
 import '../bigletter/P'
-import '../tensor/innertensor'
-import '../tensor/outertensor'
+import '../matrix/innertensor'
+import '../matrix/outertensor'
 declare module Vector5D{}
 abstract class Vector5D{
     x:number

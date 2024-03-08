@@ -41,3 +41,9 @@ export function t3() {
         z: `0,z<1,z++`
     })
 }
+export function N0InventorySlot(x4:number,y4:number,z4:number,t4:string){
+        x4;['k, j, i']
+        y4;['n, m, l']
+        z4;['q, p, o']
+        t4;['x4-y4-z4']
+}

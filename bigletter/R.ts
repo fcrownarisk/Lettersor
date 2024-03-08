@@ -1,5 +1,4 @@
-
-declare module R{}
+let R
 void function R(){
    this.R = 'Reflect'
    this.R = Range

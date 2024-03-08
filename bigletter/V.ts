@@ -1,5 +1,4 @@
-
-declare module V{}
+let V
 void function V(){
   this.VarDate = V
   this.VBArray = V

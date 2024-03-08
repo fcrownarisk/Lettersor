@@ -1,5 +1,4 @@
-
-declare module O{}
+let O
 void function O(){
   this.O = Object 
   this.O = Option 

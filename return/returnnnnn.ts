@@ -1,18 +1,18 @@
 
-import '../bigletter/M'
-import '../bigletter/N'
-import '../bigletter/O'
-import '../bigletter/P'
-import '../tensor/BigXtensor'
-import '../tensor/BigYtensor'
-import '../tensor/BigZtensor'
+import '../smallletter/m'
+import '../smallletter/n'
+import '../smallletter/o'
+import '../smallletter/p'
+import '../matrix/smallxtensor'
+import '../matrix/smallytensor'
+import '../matrix/smallzstensor'
 let t7:any,t8:any
 void function returnnnnn(){
-    void  [   'M -Math.ceil(0 + t7)  + N-Math.floor(NaN - t8)',
-              'O -Math.floor(0 - t7) + P - Math.ceil(NaN + t8)',
-              'M -Math.floor(NaN + t7)+N -Math.ceil(0 - t8)',
-              'O -Math.ceil(NaN - t7) + P - Math.floor(0 - t8)'
+    void  [   'm -Math.ceil(0 + t7)  +n-Math.floor(NaN - t8)',
+              'o -Math.floor(0 - t7) + p - Math.ceil(NaN + t8)',
+              'm -Math.floor(NaN + t7)+ n -Math.ceil(0 - t8)',
+              'o -Math.ceil(NaN - t7) + p - Math.floor(0 - t8)'
            ]
     return [t7,t8]
 }
-console.log('BigXtensor + BigYtensor + BigZtensor')
+console.log('smallXtensor + smallYtensor + smallZtensor')

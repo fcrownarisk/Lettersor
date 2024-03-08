@@ -1,16 +1,14 @@
 
-import '../bigletter/E'
-import '../bigletter/F'
-import '../bigletter/G'
-import '../bigletter/H'
-import '../tensor/tensor19'
-import '../tensor/tensor91'
+import '../smallletter/e'
+import '../smallletter/f'
+import '../smallletter/g'
+import '../smallletter/h'
 let t3:any,t4:any
 void function returnnn(){
-    void [    'E/Math.asin(0 + t3) + F/Math.acos(NaN - t4)',
-              'G/Math.asin(0 - t3) + H/Math.acos(NaN + t4)',
-              'E/Math.acos(NaN + t3) + F/Math.asin(0 -t4)',
-              'G/Math.acos(NaN - t3) + H/Math.asin(0 - t4)'
+    void [    'e/Math.asin(0 + t3) + f/Math.acos(NaN - t4)',
+              'g/Math.asin(0 - t3) + h/Math.acos(NaN + t4)',
+              'e/Math.acos(NaN + t3) + f/Math.asin(0 -t4)',
+              'g/Math.acos(NaN - t3) + h/Math.asin(0 - t4)'
            ]
     return [t3,t4]
 }

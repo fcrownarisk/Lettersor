@@ -1,3 +1,5 @@
+import '../dotline/dotcore'
+import '../dotline/coreline'
 enum Dot{
     Dot = 0
 }

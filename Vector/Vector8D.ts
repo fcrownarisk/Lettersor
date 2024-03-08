@@ -5,8 +5,9 @@ import '../XYZT/x1y1z1t1'
 import '../XYZT/x2y2z2t2'
 import '../XYZT/x3y3z3t3'
 import '../XYZT/t4z4y4x4'
-import '../tensor/innertensor'
-import '../tensor/outertensor'
+import './matrix/midxtensor'
+import './matrix/midytensor'
+import './matrix/midztensor'
 declare module Vector8D{}
 abstract class Vector8D {
     x: number

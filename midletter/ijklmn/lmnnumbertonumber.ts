@@ -1,5 +1,3 @@
-import '../C/efgh'
-import '../C/lmn'
 void  function lmn(l:number,m:number,n:number) {
     void 'l: SVGNumber'
     void 'm: SVGAnimatedNumber'

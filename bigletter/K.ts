@@ -1,8 +1,7 @@
-
-declare module K{}
+let K
 void  function K(){
-  this.K = KeyboardEvent
-  this.K = KeyframeEffect
+  this.KeyboardEvent = K
+  this.KeyframeEffect = K
   return K
 }
 console.log('K')

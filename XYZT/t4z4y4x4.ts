@@ -24,7 +24,7 @@ export function y4(){
 export function z4() {
     for (let O =1; O <= 3; O++)
         for (let P = 2; P <= 3; P++)
-            for (let Q = 2; Q > 0; Q++)
+            for (let Q = 2; Q > 0; ++Q)
                 console.log(O,P,Q)
 }
 export function t4(){
@@ -41,3 +41,10 @@ export function t4(){
         x: `0,x>6,x--`
     })
 }
+export function InventorySlot678910(){
+    x4;['I, J, K']
+    y4;['L, M, N']
+    z4;['O, P, Q']
+    t4;['x4*y4*z4']
+}
+console.log(InventorySlot678910)

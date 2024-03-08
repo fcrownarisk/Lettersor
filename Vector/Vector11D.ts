@@ -7,6 +7,19 @@ import '../Vector/Vector7D'
 import '../Vector/Vector8D'
 import '../Vector/Vector9D'
 import '../Vector/Vector10D'
+abstract class Vector11D{
+    x: number
+    y: number
+    z: number
+    t1: number
+    t2: number
+    t3: number
+    t4: number
+    t5: number
+    t6: number
+    t7: number
+}
+console.log(Vector11D,'t1','t2','t3','t4','t5','t6','t7')
 void function Vector2D(){
     void Vector2D
     return [Vector2D]

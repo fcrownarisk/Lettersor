@@ -5,19 +5,19 @@ interface Point3D{
 }
 export function getHilbertCurvePoints(order: number): Point3D[] {
   if (order <= 0) {
-    return [{ x: 1, y: 0,z:0 }];
+    return [{ x: 1, y: 0,z:0 }]
   }
-  const points = getHilbertCurvePoints(order - 1);
-  const rotatedPoints = rotatePoints(points, order - 1);
-  return points.concat(rotatedPoints);
+  const points = getHilbertCurvePoints(order - 1)
+  const rotatedPoints = rotatePoints(points, order - 1)
+  return points.concat(rotatedPoints)
 }
 export function rotatePoints(points: Point3D[], level: number): Point3D[] {
-  const newPoints: Point3D[] = [];
-  const multiplier = Math.pow(2, level);
+  const newPoints: Point3D[] = []
+  const multiplier = Math.pow(2, level)
 
   for (let i = 0; i < points.length; i++) {
-    const x = (i % multiplier) * 0.5 - 0.5;
-    const y = Math.floor(i / multiplier) * 0.5 - 0.5;
+    const x = (i % multiplier) * 0.5 - 0.5
+    const y = Math.floor(i / multiplier) * 0.5 - 0.5
     const z = Math.ceil(i*multiplier)*0.5 - 0.5
     newPoints.push({ x, y, z })
   }

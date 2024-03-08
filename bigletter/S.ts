@@ -1,5 +1,4 @@
-
-declare module S{}
+let S
 void function S(){
     this.S =  new Storage
     this.S = 'SuperString' 

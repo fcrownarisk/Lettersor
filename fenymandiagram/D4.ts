@@ -1,10 +1,11 @@
 import '../string/Momentum'
-import '../topology/CC/cone'
-import '../topology/CC/cone2'
-import '../topology/CC/conelight'
+import '../topology/VerticeEdges/cone'
+import '../topology/VerticeEdges/cone2'
+import '../topology/VerticeEdges/conelight'
 import '../fenymandiagram/diagram'
-import '../scatter.css'
-void function D4(){
-    void 'p1+p2==p3+p4'
+export function D4(){
+    D4
+    'p1+p2==p3+p4'
     return 'scatter.css'
 }
+console.log(D4)

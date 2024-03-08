@@ -1,9 +1,9 @@
 import '../Vector/Vector2D'
 import '../Vector/Vector3D'
 import '../Vector/Vector4D'
-import '../tensor/smallxtensor'
-import '../tensor/smallytensor'
-import '../tensor/smallztensor'
+import '../matrix/smallxtensor'
+import '../matrix/smallytensor'
+import '../matrix/smallztensor'
 declare module Vector9D{}
 abstract class Vector9D {
     x: number

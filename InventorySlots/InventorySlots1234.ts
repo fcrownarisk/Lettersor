@@ -1,13 +1,9 @@
 import '../XYZT/x1y1z1t1'
 import '../XYZT/x2y2z2t2'
 import '../XYZT/x3y3z3t3'
-import '../bigletter/E'
-import '../bigletter/F'
-import '../bigletter/G'
-import '../bigletter/H'
-import '../return/returnn'
-import '../return/returnnn'
-import '../return/returnnnn'
+import '../return/returnnnnn'
+import '../return/returnnnnnn'
+import '../return/returnnnnnnn'
 void function InventorySlots1() {
     return [
         {axis: 'x', items: '-- -- -- --'},

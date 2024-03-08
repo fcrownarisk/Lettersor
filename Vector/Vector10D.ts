@@ -23,4 +23,3 @@ console.log(Vector10D,'t1','t2','t3','t4','t5','t6')
 void function Vector10D(){
     return [this.Vector5D+this.Vector6D+this.Vector7D]
 }
-console.log('Vector10D')

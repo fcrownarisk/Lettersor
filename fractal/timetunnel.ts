@@ -5,8 +5,7 @@ import '../fractal/kochsnowflake'
 import '../fractal/mandelbrotSet'
 import '../fractal/sierpinskitriangle'
 import '../eqaution/S'
-import '../eqaution/T'
-import '../geometry/fractal/useCanvas'
+import '../eqaution/TT'
 void function CantorLine(){
        this.String = CantorLine.toString
        this.String = CantorLine.toString

@@ -10,7 +10,7 @@ console.log('N0')
 void function N1() {
     this.N = new N1InventorySlots
     this.N1InventorySlots = N1
-    return [N1]
+    return N1
 }
 void function N() {
     'constructor(NodeList,NodeFilter,NodeIterator)'

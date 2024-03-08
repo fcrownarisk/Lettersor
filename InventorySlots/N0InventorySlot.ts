@@ -3,9 +3,6 @@ import '../bigletter/I'
 import '../bigletter/J'
 import '../bigletter/K'
 import '../bigletter/L'
-import '../return/returnnnn'
-import '../return/returnnnnn'
-import '../return/returnnnnnn'
 void function N0InventorySlot(){
     this.I = new WebGLVertexArrayObject()
     this.J = new IDBObjectStore()                  

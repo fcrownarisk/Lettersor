@@ -30,15 +30,15 @@ export function z2(){
 export function t2(){
     do `x2*y2`
     while ({
-        z: `0,z<2,z++`
+        z: `0,-2<z<2,z++||z--`
     })
     do `x2*z2`
     while ({
-        y: `0,z<2,y++`
+        y: `0,-2<z<2,y++||y--`
     })
     do `y2*z2`
     while ({
-        x: `0,x<2,x++`
+        x: `0,-2<x<2,x++||z--`
     })
 }
 
