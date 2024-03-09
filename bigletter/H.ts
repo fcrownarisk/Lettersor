@@ -1,4 +1,4 @@
-void function HHH(){
+void function H(){
    void
    [
     "type||typeof",

@@ -7,7 +7,7 @@ import '../smallletter/n'
 import '../smallletter/o'
 import '../smallletter/p'
 import '../smallletter/q'
-import '../InventorySlots/InventorySlot1234'
+import '../InventorySlots/InventorySlot'
 import '../return/returnnn'
 export function x2() {
     for (let i = 2; i < 4; i++)
@@ -41,6 +41,12 @@ export function t2(){
         x: `0,-2<x<2,x++||z--`
     })
 }
-
+export function InventorySlot(){
+    'x4';['q, p, o']
+    'y4';['n, m, l']
+    'z4';['k, j, i']
+    't4';['x4-y4-z4']
+}
+console.log(InventorySlot)
 
 

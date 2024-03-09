@@ -1,3 +1,4 @@
+
 declare module x{}
 declare module y{}
 declare module z{}

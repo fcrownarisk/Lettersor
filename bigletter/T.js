@@ -5,21 +5,21 @@ import '../XYZT/t4z4y4x4'
 import '../XYZT/t5z5y5x5'
 import '../XYZT/t6z6y6x6'
 import '../XYZT/x7y7z7t7z7y7x7'
-export function T1234(){
+void function t(){
     const t1 = TextDecoder
     const t2 = new TextDecoderStream
     const t3 = TextEncoder
     const t4 = new TextEncoderStream
-console.log(t1,t2,t3,t4)
+return [t1,t2,t3,t4]
 }
-export function T5678(){
+void function t(){
     const t5 = TextTrack
     const t6 = TextTrackList
     const t7 = TextTrackCue
     const t8 = new TextTrackCueList
-console.log(t5,t6,t7,t8)
+return [t5,t6,t7,t8]
 }
-export function T910110(){
+void function t(){
     const t9 = TimeRanges
     const t10 = AnimationTimeline
     const t11 = HTMLTimeElement

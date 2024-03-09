@@ -1,7 +1,6 @@
 let K
 void  function K(){
-  this.KeyboardEvent = K
-  this.KeyframeEffect = K
-  return K
+  this.K = KeyboardEvent
+  this.K = KeyframeEffect
 }
 console.log('K')

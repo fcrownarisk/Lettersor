@@ -1,4 +1,4 @@
-void function Goto(gotoLabel: string): void {
+void function goto(gotoLabel: string): void {
     const state = { [gotoLabel]: true }
     try {
         if (state[gotoLabel]) {
@@ -9,5 +9,5 @@ void function Goto(gotoLabel: string): void {
     } finally {
         delete state[gotoLabel]
     }
-  Goto
+  goto
 }

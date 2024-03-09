@@ -1,4 +1,3 @@
-
 export function calculateIcosahedron(size: number): { vertices: number[]; length: number } {
     const edge = size;
     const phi = 1 / (1 + Math.sqrt(5))

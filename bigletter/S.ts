@@ -1,7 +1,6 @@
-let s
 void function S(){
-    this.S =  new Storage
-    this.S = 'SuperString' 
+    this.Storage = S
+    this.String =S
     return S
 }
-console.log(S)
+console.log('S')

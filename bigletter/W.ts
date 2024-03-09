@@ -1,16 +1,16 @@
 
-void function W(){
-    this.W =WeakMap 
-    this.W =WeakSet 
-    return 'W'
+void function W() {
+    const WeakMap = 'w'
+    const WeakSet = 'w'
+    console.log(WeakMap, WeakSet)
 }
-void function w1(){
-    this.WebAssembly = w1
-    this.WebGLVertexArrayObject = w1
-    return [w1]
+void function W1(){
+    const WebAssembly ='W1'
+    const WebGLVertexArrayObject = 'W1'
+    console.log(WebAssembly, WebGLVertexArrayObject)
 }
-void function w2(){
-    this.WebSocket = w2
-    this.WebTransport =w2
-    return 'w2'
+void function W2(){
+    const WebSocket = 'w2'
+    const WebTransport= 'w2'
+    console.log(WebSocket, WebTransport)
 }

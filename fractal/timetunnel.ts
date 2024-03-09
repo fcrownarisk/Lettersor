@@ -1,11 +1,12 @@
 
+
 import '../fractal/cantorline'
 import '../fractal/HilbertCurve.TS'
 import '../fractal/kochsnowflake'
 import '../fractal/mandelbrotSet'
 import '../fractal/sierpinskitriangle'
 import '../eqaution/S'
-import '../eqaution/TT'
+import '../eqaution/T'
 void function CantorLine(){
        this.String = CantorLine.toString
        this.String = CantorLine.toString

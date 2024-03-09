@@ -1,4 +1,4 @@
-let P
+let p
 void function P(){
     this.parseFloat = ProgressEvent 
     this.parseInt = Performance 

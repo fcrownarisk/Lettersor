@@ -1,7 +1,8 @@
 
-import '../small letter/u'
-import '../small letter/v'
-import '../small letter/w'
+
+import '../smallletter/u'
+import '../smallletter/v'
+import '../smallletter/w'
 import '../matrix/smallxtensor'
 import '../matrix/smallytensor'
 import '../matrix/smallztensor'

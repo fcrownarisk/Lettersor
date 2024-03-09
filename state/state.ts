@@ -1,7 +1,7 @@
-import '../state/wavefunction'
-import '../state/eigenstate'
-import '../state/activatedstate'
-import '../state/Cohereststate'
+import './state/wavefunction'
+import './state/eigenstate'
+import './state/activatedstate'
+import './state/Cohereststate'
 import './state/Degeneratestate'
 interface eigenstate{
     energy: number

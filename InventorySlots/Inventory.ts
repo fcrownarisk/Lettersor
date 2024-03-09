@@ -1,5 +1,11 @@
-import '../InventorySlots/N0InventorySlot'
-import '../InventorySlots/N1InventorySlots'
 void function Inventory(){
+    void"|_|_|_|_|  |_|_|_|_|"
+    void"|_|_|_|_|  |_|_|_|_|"
+    void"|_|_|_|_|  |_|_|_|_|"
+    void"|_|_|_|_|  |_|_|_|_|"
 
+    void"|_|_|_|_|  |_|_|_|_|"
+    void"|_|_|_|_|  |_|_|_|_|"
+    void"|_|_|_|_|  |_|_|_|_|"
+    void"|_|_|_|_|  |_|_|_|_|"
 }

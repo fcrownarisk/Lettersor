@@ -6,8 +6,8 @@ import '../bigletter/P'
 void function N1InventorySlots() {
     this.M = new Cache()
     this.N = new CacheStorage()
-    this.O = new CanvasRenderingContext2D()
-    this.P = new CanvasCaptureMediaStreamTrack()
+    this.CanvasRenderingContext2D= 'O'
+    this.CanvasCaptureMediaStreamTrack = 'P'
     return ['M','N','O','P']
 }
 export function N1InventorySlots() {

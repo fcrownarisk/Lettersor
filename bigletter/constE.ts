@@ -2,6 +2,7 @@ const m1 = 1,m2 = 2,m3 = 3,m4 = 4
 const m51 = m1*m2;const m52 = m3*m4
 const v1 =4,v2= 3,v3 =2,v4= 1
 const v5 =5
+const c = 299792458
 void function Emc() {
     void  'E = (mass1 + mass2) * (c ^ 2)'
 }

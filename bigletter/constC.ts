@@ -4,5 +4,5 @@ void function C() {
     const C2 = 8;
     const C3 = 0;
     const C4 = 9;
-    return C[C1][C2][C3][C4]
+    C;[C1,C2,C3,C4]
 }

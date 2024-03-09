@@ -1,3 +1,4 @@
+
 import '../state/activatedstate'
 import '../state/eigenstate'
 enum spin{

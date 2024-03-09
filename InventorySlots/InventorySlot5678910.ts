@@ -9,6 +9,11 @@ import '../XYZT/t6z6y6x6'
 import '../return/returnn'
 import '../return/returnnn'
 import '../return/returnnnn'
+const A ='constA'
+const B ='constB'
+const C ='constC'
+const D ='constD'
+console.log(A,B,C,D)
 void function InventorySlot5(){
     return [
         {axis: 'x', items: '--- --- ---'},
@@ -63,3 +68,4 @@ void function InventorySlot10(){
     ]
 }
 console.log('InventorySlot10')
+

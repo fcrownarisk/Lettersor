@@ -1,13 +1,13 @@
-let v
 void function V(){
-  this.VarDate = V
-  this.VBArray = V
+  const VarDate = V
+  const VBArray = V
+console.log(VarDate,VBArray)
 }
 void function V(){
-    this.V = VideoEncoder
-    this.V = VideoDecoder
-    this.V = VideoFrame
-    this.V = VideoColorSpace
-    this.V = VideoPlaybackQuality
-    return 'V'
+    const VideoEncoder = V
+    const VideoDecoder = V
+    const VideoFrame = V
+    const VideoColorSpace = V
+    const VideoPlaybackQuality =V
+    console.log(VideoEncoder,VideoDecoder,VideoFrame,VideoColorSpace,VideoPlaybackQuality)
 }

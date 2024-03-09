@@ -8,6 +8,7 @@ import '../bigletter/O'
 import '../bigletter/P'
 import '../bigletter/Q'
 import '../return/returnnnnnnn'
+import '../InventorySlots/InventorySlot5678910'
 export function x5(){
     for (let I = 2; I < 4; ++I)
        for (let J= 2;J < 4; ++J)
@@ -40,4 +41,10 @@ export function t5(){
         x: `0,10>x>5,x--||x++`
     })
 }
-
+export function InventorySlot5678910(x5: number, y5: number, z5: number,t5:string){
+    x5;['Q,P,O']
+    y5;['N,M,L']
+    z5;['K,J,I']
+    t5;['x5/y5/z5']
+}
+console.log(InventorySlot5678910)

@@ -1,4 +1,3 @@
-
 enum QuarkFlavor {
     Up,
     Down,

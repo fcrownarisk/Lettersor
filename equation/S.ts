@@ -1,3 +1,4 @@
+
 import '../equation/Plank'
 import '../equation/boltzman'
 void function S() {

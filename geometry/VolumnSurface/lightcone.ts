@@ -1,3 +1,4 @@
+
 class lightcone{
     radius:number
     height:number

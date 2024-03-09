@@ -1,4 +1,3 @@
-
 class Tetrahedron {
     constructor(sideLength: number) {
         this.sideLength = sideLength

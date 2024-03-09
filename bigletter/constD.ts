@@ -4,5 +4,5 @@ void function D() {
     const D2 = 11
     const D3 = 12
     const D4 = 0
-    return D [D1][D2][D3][D4]
+    D;[D1,D2,D3,D4]
 }

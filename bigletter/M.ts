@@ -1,8 +1,11 @@
-let M
+
+void function M() {
+    const moveBy = 'M'
+    const moveTo = 'M'
+    return [moveBy, moveTo]
+}
 void function M(){
-    this.M = moveBy
-    this.M = moveTo
-    this.M = MathMLElement
-    this.M = Math 
-    return M
+    const MathMLElement = 'M'
+    const Math = 'M'
+    return [MathMLElement, Math]
 }

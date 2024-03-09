@@ -1,6 +1,6 @@
-let L
+
 void function L(){
-   this.L = new Lock()
-   this.L = new LockManager()
-   return L
+   const Lock = L
+   const LockManager = L
+   console.log(Lock,LockManager)
 }

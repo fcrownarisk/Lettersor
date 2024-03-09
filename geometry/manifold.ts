@@ -1,3 +1,4 @@
+
 import './ChenClass'
 interface ChenClass {
     Class(): any;

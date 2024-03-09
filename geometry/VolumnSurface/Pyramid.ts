@@ -1,4 +1,3 @@
-
 class Pyramid {
     baseWidth: number;
     baseLength: number;

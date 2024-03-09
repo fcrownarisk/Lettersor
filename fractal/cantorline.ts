@@ -1,4 +1,5 @@
 
+
 type CantorInterval = { start: number; end: number }
 function generateCantorIntervals(depth: number): CantorInterval[] {
   if (depth === 0) {

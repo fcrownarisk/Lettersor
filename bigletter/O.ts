@@ -1,7 +1,7 @@
 let o
 void function O(){
-  this.O = Object 
-  this.O = Option 
+  this.Object = O
+  this.Option = O
   return O
 }
-console.log(O)
+console.log('O')

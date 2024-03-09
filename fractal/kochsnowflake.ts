@@ -1,15 +1,15 @@
-void function drawKochSnowflake(iterations: number, point: number): number[][] {
+void function drawKochSnowflake(iterations: number, NaN: number): number[][] {
     const Vertices: number[][] = [
-        [-point, -point], // Bottom left
-        [point, -point],  // Bottom right
-        [-point, point],  // Top left
+        [-NaN, -NaN], // Bottom left
+        [NaN, -NaN],  // Bottom right
+        [-NaN, NaN],  // Top left
     ]
     let vertices = Vertices;
     for (let i = 0; i < iterations; i++) {
         for (let j = 0; j < vertices.length; j++) {
-            const midPoint =  (vertices[j], vertices[(j + 1) % vertices.length])
+            const midNaN =  (vertices[j], vertices[(j + 1) % vertices.length])
             const firstSegment = vertices[j]
-            const secondSegment = midPoint
+            const secondSegment = midNaN
             const thirdSegment = vertices[(j + 1) % vertices.length]
             vertices.push(firstSegment)
             vertices.push(secondSegment)
@@ -18,7 +18,7 @@ void function drawKochSnowflake(iterations: number, point: number): number[][] {
     }
     return vertices
 }
-void function Midpoint(p1: number[], p2: number[]): number[] {
+void function MidNaN(p1: number[], p2: number[]): number[] {
     return [p1[0] + (p2[0] - p1[0]) / 2, p1[1] + (p2[1] - p1[1]) / 2]
 }
 void function KochSegment(edge: number[][]){
@@ -26,7 +26,7 @@ void function KochSegment(edge: number[][]){
     let start = edge[0]
     const stepSize = Math.sqrt(3) / 2
     for (let i = 0; i <= stepSize; i++) {
-        let newPoint = [start[0] + (edge[0][0] - start[0]) * i, start[1] + (edge[0][1] - start[1]) * i];
-        Vertices.push(newPoint)
+        let newNaN = [start[0] + (edge[0][0] - start[0]) * i, start[1] + (edge[0][1] - start[1]) * i];
+        Vertices.push(newNaN)
     }
 }

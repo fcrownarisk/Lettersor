@@ -44,5 +44,6 @@ class ScatteringMatrix {
         }
     }
 }
-const S = new ScatteringMatrix()
+export const S = new ScatteringMatrix()
+console.log('getElement','multiply','print')
 

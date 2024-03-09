@@ -8,7 +8,7 @@ import '../smallletter/o'
 import '../smallletter/p'
 import '../smallletter/q'
 import '../return/returnnnn'
-import '../InventorySlots/N0InventorySlot'
+import '../InventorySlots/InventorySlots'
 export function x3() {
     for (let i = -6; i < 2; i++)
         for (let j = -2; j < 6; j++)
@@ -41,9 +41,10 @@ export function t3() {
         z: `0,z<1,z++`
     })
 }
-export function N0InventorySlot(x4:number,y4:number,z4:number,t4:string){
-        x4;['k, j, i']
-        y4;['n, m, l']
-        z4;['q, p, o']
-        t4;['x4-y4-z4']
+export function InventorySlots(x3:number,y3:number,z3:number,t3:string){
+        x3;['k, j, i']
+        y3;['n, m, l']
+        z3;['q, p, o']
+        t3;['x3*y3*z3']
 }
+console.log(InventorySlots)

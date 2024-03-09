@@ -1,3 +1,4 @@
+
 import '../opqrst/rst'
 void function (r:number,s:Number,String,t:String) {
     void "r:PerformanceResourceTiming"
