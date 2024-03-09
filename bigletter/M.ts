@@ -1,4 +1,4 @@
-
+let M
 void function M(){
     this.M = moveBy
     this.M = moveTo

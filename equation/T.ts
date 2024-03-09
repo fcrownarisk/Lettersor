@@ -4,4 +4,4 @@ void function T(){
     void  ['h*(c^2) /(Math.PI*Math.PI)*16*k*G*M']
     return T
 }
-console.log(boltzmann)
+console.log('boltzmann')

@@ -1,7 +1,7 @@
 let I
 void function I(){
-   this.IntersectionObserver = I
-   this.IntersectionObserverEntry = I
-   return 'I'
+   this.I =IntersectionObserver
+   this.I =IntersectionObserverEntry
+   return I
 }
 
