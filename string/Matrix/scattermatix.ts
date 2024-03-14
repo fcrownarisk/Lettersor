@@ -1,5 +1,4 @@
 import '../equation/momentum'
-import '../Matrix/wuwuMatrix'
 import '../Matrix/tennetMatrix'
 class Complex {
     constructor(public real: number, public imag: number) {}
