@@ -1,10 +1,7 @@
-
-
 import '../smallletter/a'
 import '../smallletter/b`'
 import '../smallletter/c'
 import '../smallletter/d'
-import '../'
 let t1:any,t2:any
 void function returnn(){
   void [  'a * Math.sin(NaN + t1) + b * Math.cos(0 - t2)',
